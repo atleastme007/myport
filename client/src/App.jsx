@@ -6,7 +6,7 @@ import Navbar from './components/Navbar.jsx'
 import Footer from './components/Footer.jsx'
 import {  
   BrowserRouter, 
-  Routes  
+  //Routes  
 }   
 from 'react-router-dom';  
 function App() {
